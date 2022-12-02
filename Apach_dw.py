@@ -15,6 +15,6 @@ while i <= 20:
     a = a + '# '
     i = i + 1
    
-
+#new
 print("Fertig")
 
